@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **laravel, android native, php, vue etc**
 
-- 📫 How to reach me **ezharmahesa123@gmail.com**
-
 <p align="left">
 </p>
 
