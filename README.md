@@ -8,10 +8,4 @@
 <p align="left">
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydie22&show_icons=true&locale=en&layout=compact" alt="skydie22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydie22&show_icons=true&locale=en" alt="skydie22" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skydie22&" alt="skydie22" /></p>
