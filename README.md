@@ -5,7 +5,4 @@
 
 - 🌱 I’m currently learning **laravel, android native, php, vue etc**
 
-<p align="left">
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skydie22&" alt="skydie22" /></p>
